@@ -1,2 +1,2 @@
-# noamgav4-afk.github.io
+# noamgav4.github.io
 Personal portfolio and CV
